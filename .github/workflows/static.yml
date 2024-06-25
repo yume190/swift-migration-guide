@@ -37,7 +37,7 @@ jobs:
       - name: DocC
         uses: yume190/ActionDocC@0.0.2
         with:
-          host: /TestDoc
+          host: /swift-migration-guide
           docc: GuideZh.docc
           output: dist
         
